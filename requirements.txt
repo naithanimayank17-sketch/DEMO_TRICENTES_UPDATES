@@ -1,0 +1,8 @@
+selenium
+pytest
+openpyxl
+pytest-html
+
+
+#to install the packages in requirement file
+# open terminal and run : 
